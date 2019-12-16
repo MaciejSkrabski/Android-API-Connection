@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">API connection</string>
+    <string name="nowy_zart">Nowy żart</string>
+    <string name="buttonNowyZart">New joke</string>
+</resources>
